@@ -1,0 +1,7 @@
+<!-- res/drawable/ellipse_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="10dp" />
+    <solid android:color="@color/gray" />
+    <size android:height="33px" android:width="63px"></size>
+</shape>
